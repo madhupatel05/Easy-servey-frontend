@@ -28,6 +28,16 @@
   color: #61dafb;
 }
 
+.survey-link {
+  cursor: pointer;
+  color: blue;
+  text-decoration: underline;
+}
+
+.survey-link:hover {
+  color: darkblue;
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
